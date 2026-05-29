@@ -28,6 +28,7 @@ Leopold Aschenbrenner（X: [@leopoldasch](https://x.com/leopoldasch)）。德裔
 | **表达 DNA** | 完整 | 三连句 / 三连问的史诗腔、自创概念词癖（OOMs、unhobbling、drop-in remote worker）、数字锚点癖、精心管理的高确定性 |
 | **真实持仓** | 1 份 | 其基金的 SEC 13F 公开持仓档案（做空被炒满的明星芯片、做多还没被 price in 的电力 / 算力 / 存储瓶颈）作为行为层证据 |
 | **内在张力** | 6 对 | 保留不调和——信私营部门 vs 主张国家工程、Burkean 渐进 vs Promethean 集中、承认对齐没把握却主张全速冲、等等 |
+| **原始调研** | 六路 114 条 | `references/research/01-06.md` 完整留存（著作/访谈/社媒/第三方/决策/时间线，每条带真实出处），可端到端复核 |
 
 这个 skill **不把 Leopold 蒸成崇拜他的复读机**：他被打脸的预测（政治经济线约 8/10 被证伪）、被质疑的业绩（英特尔期权「运气还是本事」之争）、利益冲突指控，都如实建进去了。
 
@@ -113,10 +114,19 @@ leopold-mind/
 ├── SKILL.md                          # 主文件：双模式运行时规则 + 6 个心智模型 + 决策启发式 + 表达 DNA
 ├── eval-set.md                       # 回归测试集（改动后复验，防蒸歪）
 └── references/
-    ├── holdings-dossier.md           # SEC 13F 持仓档案 + 解读纪律
-    ├── quote-bank.md                 # 原话证据库（带出处）
-    └── timeline.md                   # 人生 / 思想时间线
+    ├── research/                     # 原料层：六路原始调研（114 条带源发现，可端到端复核）
+    │   ├── 01-writings.md            #   著作长文（SA 六章 + 学术论文）
+    │   ├── 02-interviews.md          #   播客长访谈（Dwarkesh 等）
+    │   ├── 03-social.md              #   社媒碎片（@leopoldasch，表达 DNA 语料）
+    │   ├── 04-third-party.md         #   第三方分析（含批评者/反对者）
+    │   ├── 05-decisions.md           #   重大决策（被解雇罗生门、建基金等）
+    │   └── 06-timeline.md            #   时间线
+    ├── holdings-dossier.md           # 精华层：SEC 13F 持仓档案 + 解读纪律
+    ├── quote-bank.md                 # 精华层：原话证据库（带出处）
+    └── timeline.md                   # 精华层：人生 / 思想时间线
 ```
+
+**两层可追溯**：`references/research/` 是六路原始调研（每条带真实出处，能回溯"某条提炼是从哪段原文来的、有没有断章取义"）；其余 `references/` 是提炼后的精华层。原料层 + 精华层都留，复核链条完整。
 
 ---
 
